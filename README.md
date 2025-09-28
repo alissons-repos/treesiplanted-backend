@@ -1,6 +1,6 @@
 # Trees I Planted - Backend
 
-O objetivo da aplicação é permitir que o usuário registre todas as árvores que plantou ao longo de sua vida. A aplicação persistirá em um banco de dados sqlite3 todas as árvores criadas. Por meio da interface gráfica implementada no [frontend](https://github.com/alissons-repos/treesiplanted-frontend/) o usuário será capaz de visualizar, criar, editar e deletar facilmente suas árvores cadastradas.
+O objetivo da aplicação é permitir que o usuário registre todas as árvores que plantou ao longo de sua vida. A aplicação persistirá em um banco de dados **sqlite3** todas as árvores criadas. Por meio da interface gráfica implementada no [frontend](https://github.com/alissons-repos/treesiplanted-frontend/) o usuário será capaz de visualizar, criar, editar e deletar facilmente suas árvores cadastradas.
 
 Esse repositório github destina-se a armazenar apenas o backend da aplicação. Sua segunda parte está armazenada no repositório do [frontend](https://github.com/alissons-repos/treesiplanted-frontend/).
 
@@ -9,7 +9,7 @@ Esse repositório github destina-se a armazenar apenas o backend da aplicação.
 
 Após clonar este repositório, vá pelo terminal até o diretório raiz `treesiplanted-backend`, e execute a sequência de comandos abaixo.
 
-Observação: os comandos a seguir forma descritos para usuários do sistema operacional Windows.
+> Observação: os comandos a seguir forma descritos para usuários do sistema operacional Windows.
 
 > É fortemente indicado o uso de ambientes virtuais do tipo [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
 
