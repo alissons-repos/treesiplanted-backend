@@ -1,4 +1,4 @@
-# Trees I Planted
+# Trees I Planted - Backend
 
 O objetivo da aplicação é permitir que o usuário registre todas as árvores que plantou ao longo de sua vida. A aplicação persistirá em um banco de dados sqlite3 todas as árvores criadas. Por meio da interface gráfica implementada no [frontend](https://github.com/alissons-repos/treesiplanted-frontend/) o usuário será capaz de visualizar, criar, editar e deletar facilmente suas árvores cadastradas.
 
@@ -42,4 +42,4 @@ WARNING: This is a development server. Do not use it in a production deployment.
 Press CTRL+C to quit
 ```
 
-Abra a [http://localhost:5000/trees](http://localhost:5000/trees) em seu navegador para verificar a sua lista de árvores.
+Pronto! Agora a API está rodando em seu computador e permitirá a correta execução do arquivo index.html encontrado no repositório github do [frontend](https://github.com/alissons-repos/treesiplanted-frontend/) desse mesmo projeto.
